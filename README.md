@@ -91,10 +91,6 @@ bash start
 * `{previouscaption}` - Original Caption
 
 
-## Support   
-Bergabunglah di [Putra Icipiyey ](https://t.me/putraicipiyey Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
-   
-Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
 ### Credits
 
